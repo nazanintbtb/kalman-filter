@@ -7,4 +7,6 @@ We measure the value of a parameter from different sources because the desired p
 For example, measuring moving speed.
 To measure speed, we can use tools such as GPS (provides absolute location), odometer (provides relative displacement), and IMU (provides acceleration information). It is evident that these parameters can be used to calculate speed, but the problem is that these tools may not provide accurate values. For example, GPS may not work properly inside a tunnel and introduce noise. Therefore, the accurate speed value may not be calculated. Here, the Kalman filter can help us in optimal estimation.
 # output of kalman filter without fault 
+![kalman](https://github.com/nazanintbtb/kalman-filter/assets/88847995/66094063-0edf-4d91-9863-13bfecfba798)
+
 
